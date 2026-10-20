@@ -1,0 +1,8 @@
+Configuração,Entrada,Sem_1,Sem_2,Sem_3,Sem_4,Sem_5,Maior_Valor,Media_Valor,Tempo_Medio_s
+"Padrão (Pop=50, Mut=0.05)",entrada_01.csv,54,54,54,54,53,54,53.8,0.03113
+"Padrão (Pop=50, Mut=0.05)",entrada_02.csv,69,68,69,69,68,69,68.6,0.03555
+"Padrão (Pop=50, Mut=0.05)",entrada_03.csv,77,79,79,77,77,79,77.8,0.03405
+"Padrão (Pop=50, Mut=0.05)",entrada_04.csv,85,85,85,85,85,85,85.0,0.03172
+"Padrão (Pop=50, Mut=0.05)",entrada_05.csv,125,125,125,125,124,125,124.8,0.03859
+"Mutação Reduzida (Pop=50, Mut=0.01)",entrada_05.csv,123,122,123,123,121,123,122.4,0.03604
+"População Aumentada (Pop=100, Mut=0.05)",entrada_05.csv,125,125,125,125,125,125,125.0,0.07047
